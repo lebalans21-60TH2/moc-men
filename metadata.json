@@ -1,0 +1,6 @@
+{
+  "name": "Mộc & Men — Sàn Thủ Công Mỹ Nghệ Đa Nhà Bán",
+  "description": "Hệ thống thương mại điện tử đa nhà bán hàng chuyên sản phẩm thủ công mỹ nghệ Việt Nam, tích hợp chia đơn tự động, tiếp thị liên kết, quản trị kinh doanh và gợi ý sản phẩm thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
